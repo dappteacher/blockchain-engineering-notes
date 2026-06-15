@@ -2,6 +2,12 @@
 
 > Practical gas optimization techniques for Solidity developers, including storage optimization, calldata usage, custom errors, immutable variables, storage packing, benchmarking, and performance measurement.
 
+**Original Medium Article:**
+
+[Read on Medium](https://medium.com/@dappteacher/gas-optimization-in-blockchain-more-than-just-saving-fees-2c47f1d32e59)
+
+---
+
 ## Table of Contents
 
 * [Introduction](#introduction)
@@ -585,7 +591,7 @@ I share practical engineering insights, audit lessons, and open-source tools for
 
 * GitHub: [https://github.com/dappteacher](https://github.com/dappteacher)
 * Gas Analyzer: [https://github.com/dappteacher/gas-analyzer](https://github.com/dappteacher/gas-analyzer)
-* LinkedIn: Add your LinkedIn profile here
+* LinkedIn: [https://linkedin.com/in/dappteacher](https://linkedin.com/in/dappteacher)
 
 ---
 

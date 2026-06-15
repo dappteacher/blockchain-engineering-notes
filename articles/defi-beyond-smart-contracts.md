@@ -2,6 +2,12 @@
 
 > Building secure, resilient, scalable, and user-centric decentralized financial systems.
 
+**Original Medium Article:**
+
+[Read on Medium](https://medium.com/@dappteacher/defi-development-beyond-smart-contracts-and-toward-financial-infrastructure-a29c8c5d934a)
+
+---
+
 ## Table of Contents
 
 * [Introduction](#introduction)
@@ -375,8 +381,9 @@ I specialize in designing and auditing blockchain applications, researching prot
 
 ### Connect
 
-* GitHub: `github.com/dappteacher`
-* LinkedIn: *Add your LinkedIn URL*
-* Medium: *Add your Medium profile URL*
+* GitHub: [https://github.com/dappteacher](https://github.com/dappteacher)
+* Gas Analyzer: [https://github.com/dappteacher/gas-analyzer](https://github.com/dappteacher/gas-analyzer)
+* LinkedIn: [https://linkedin.com/in/dappteacher](https://linkedin.com/in/dappteacher)
+
 
 ---
