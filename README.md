@@ -2,7 +2,7 @@
 
 A curated collection of research notes, technical articles, and practical guides on blockchain engineering.
 
-This repository serves as my public knowledge base covering smart contract development, security auditing, gas optimization, DeFi architecture, protocol design, and Web3 infrastructure.
+This repository serves as my public knowledge base covering smart contract development, security auditing, gas optimization, DeFi architecture, protocol design, account abstraction, and Web3 infrastructure.
 
 The goal is simple:
 
@@ -16,6 +16,7 @@ The goal is simple:
 * Solidity Development
 * Gas Optimization
 * DeFi Architecture
+* Account Abstraction
 * Protocol Design
 * Ethereum & EVM Internals
 * Security Patterns
@@ -38,10 +39,11 @@ The goal is simple:
 
 ### Smart Contract Security
 
-| Article                                                                                  | Description                                                           |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| ERC-4626 Vulnerabilities Every Smart Contract Auditor Should Know                        | Common attack vectors and auditing considerations for ERC-4626 vaults |
-| The Essential DeFi Design Patterns Every Smart Contract Engineer and Auditor Should Know | Critical protocol patterns used throughout DeFi ecosystems            |
+| Article                                                                                  | Description                                                                                                |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| ERC-4626 Vulnerabilities Every Smart Contract Auditor Should Know                        | Common attack vectors and auditing considerations for ERC-4626 vaults                                      |
+| The Essential DeFi Design Patterns Every Smart Contract Engineer and Auditor Should Know | Critical protocol patterns used throughout DeFi ecosystems                                                 |
+| **Account Abstraction Security: When Wallets Become Smart Contracts**                    | Understanding the security implications, attack surfaces, and trust assumptions of ERC-4337 smart accounts |
 
 ---
 
@@ -72,11 +74,22 @@ This repository explores these trade-offs from both engineering and business per
 
 ---
 
+## Current Research Areas
+
+* Smart Contract Security
+* Account Abstraction Security
+* Gas Optimization
+* DeFi Architecture
+* Protocol Design
+* Wallet Security
+* Ethereum Infrastructure
+
+---
+
 ## Future Topics
 
 Planned areas of research include:
 
-* Account Abstraction
 * MEV
 * Cross-Chain Protocols
 * Rollups and Layer 2 Systems
@@ -91,9 +104,10 @@ Planned areas of research include:
 
 ## About
 
-I'm Yaghoub Adelzadeh, a blockchain engineer and smart contract security researcher focused on:
+I'm **Yaghoub Adelzadeh**, a blockchain engineer and smart contract security researcher focused on:
 
 * Smart Contract Security
+* Account Abstraction Security
 * Gas Optimization
 * DeFi Protocol Analysis
 * Blockchain Architecture
@@ -105,8 +119,8 @@ I publish technical research, protocol analyses, and engineering insights to hel
 
 ## Connect
 
-* Medium: https://medium.com/@dappteacher
-* LinkedIn : https://www.linkedin.com/in/dappteacher
-* GitHub : https://www.github.com/dappteacher
+* Medium: `https://medium.com/@dappteacher`
+* LinkedIn: `https://www.linkedin.com/in/dappteacher`
+* GitHub: `https://github.com/dappteacher`
 
 ---
