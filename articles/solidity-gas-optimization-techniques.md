@@ -4,7 +4,7 @@
 
 **Original Medium Article:**
 
-[Read on Medium](https://medium.com/@dappteacher/solidity-gas-optimization-10-practical-techniques-every-smart-contract-developer-should-know-89c47b9c32f4?utm_source=chatgpt.com)
+[Read on Medium](https://medium.com/@dappteacher/solidity-gas-optimization-10-practical-techniques-every-smart-contract-developer-should-know-89c47b9c32f4)
 
 ---
 
@@ -459,7 +459,7 @@ Can identify common optimization opportunities.
 
 Resource:
 
-[Slither Static Analyzer](https://github.com/crytic/slither?utm_source=chatgpt.com)
+[Slither Static Analyzer](https://github.com/crytic/slither)
 
 ## Tenderly
 
@@ -467,7 +467,7 @@ Provides transaction profiling and execution traces.
 
 Resource:
 
-[Tenderly Platform](https://tenderly.co?utm_source=chatgpt.com)
+[Tenderly Platform](https://tenderly.co)
 
 ---
 
@@ -516,10 +516,10 @@ Remember:
 
 ### Related Articles
 
-* [Solidity Gas Optimization: 10 Practical Techniques Every Smart Contract Developer Should Know (Medium)](https://medium.com/@dappteacher/solidity-gas-optimization-10-practical-techniques-every-smart-contract-developer-should-know-89c47b9c32f4?utm_source=chatgpt.com)
-* [Understanding Opcode and Bytecode in Solidity: Their Role in Gas Optimization](https://medium.com/@dappteacher/understanding-opcode-and-bytecode-in-solidity-their-role-in-gas-optimization-261a2fc1fd7e?utm_source=chatgpt.com)
-* [Gas Analyzer Repository](https://github.com/dappteacher/gas-analyzer?utm_source=chatgpt.com)
-* [ERC-4626 Vulnerabilities Every Smart Contract Auditor Should Know](https://medium.com/@dappteacher/erc-4626-vulnerabilities-every-smart-contract-auditor-should-know-51c7172d672f?utm_source=chatgpt.com)
+* [Solidity Gas Optimization: 10 Practical Techniques Every Smart Contract Developer Should Know (Medium)](https://medium.com/@dappteacher/solidity-gas-optimization-10-practical-techniques-every-smart-contract-developer-should-know-89c47b9c32f4)
+* [Understanding Opcode and Bytecode in Solidity: Their Role in Gas Optimization](https://medium.com/@dappteacher/understanding-opcode-and-bytecode-in-solidity-their-role-in-gas-optimization-261a2fc1fd7e)
+* [Gas Analyzer Repository](https://github.com/dappteacher/gas-analyzer)
+* [ERC-4626 Vulnerabilities Every Smart Contract Auditor Should Know](https://medium.com/@dappteacher/erc-4626-vulnerabilities-every-smart-contract-auditor-should-know-51c7172d672f)
 
 ---
 
@@ -537,16 +537,6 @@ Areas of Focus:
 * DeFi Architecture
 * Protocol Auditing
 
-### Connect
-
-* [GitHub Profile](https://github.com/dappteacher?utm_source=chatgpt.com)
-* [Medium Profile](https://medium.com/@dappteacher?utm_source=chatgpt.com)
-
----
-
-One recommendation: because you already have both the **Opcode & Bytecode** article and this **10 Gas Optimization Techniques** article, link them together aggressively. The opcode article explains *why* gas costs exist, while this article explains *how* to reduce them. Together they create a strong "EVM Performance Engineering" section in your GitHub knowledge base.
-
----
 
 ### Connect
 

@@ -451,9 +451,9 @@ For auditors, understanding these patterns is essential for identifying risks be
 
 ### Related Articles
 
-* [ERC-4626 Vulnerabilities Every Smart Contract Auditor Should Know (Medium)](https://medium.com/@dappteacher/erc-4626-vulnerabilities-every-smart-contract-auditor-should-know-51c7172d672f?utm_source=chatgpt.com)
-* [The Essential DeFi Design Patterns Every Smart Contract Engineer and Auditor Should Know](https://medium.com/@dappteacher/the-essential-defi-design-patterns-every-smart-contract-engineer-and-auditor-should-know-da4fe63c09e2?utm_source=chatgpt.com)
-* [Gas Analyzer Repository](https://github.com/dappteacher/gas-analyzer?utm_source=chatgpt.com)
+* [ERC-4626 Vulnerabilities Every Smart Contract Auditor Should Know (Medium)](https://medium.com/@dappteacher/erc-4626-vulnerabilities-every-smart-contract-auditor-should-know-51c7172d672f)
+* [The Essential DeFi Design Patterns Every Smart Contract Engineer and Auditor Should Know](https://medium.com/@dappteacher/the-essential-defi-design-patterns-every-smart-contract-engineer-and-auditor-should-know-da4fe63c09e2)
+* [Gas Analyzer Repository](https://github.com/dappteacher/gas-analyzer)
 
 ---
 

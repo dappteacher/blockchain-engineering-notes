@@ -491,8 +491,8 @@ For security researchers and smart contract auditors, pattern recognition is oft
 
 ### Related Articles
 
-* [The Essential DeFi Design Patterns Every Smart Contract Engineer and Auditor Should Know (Medium)](https://medium.com/@dappteacher/the-essential-defi-design-patterns-every-smart-contract-engineer-and-auditor-should-know-da4fe63c09e2?utm_source=chatgpt.com)
-* [Gas Analyzer Repository](https://github.com/dappteacher/gas-analyzer?utm_source=chatgpt.com)
+* [The Essential DeFi Design Patterns Every Smart Contract Engineer and Auditor Should Know (Medium)](https://medium.com/@dappteacher/the-essential-defi-design-patterns-every-smart-contract-engineer-and-auditor-should-know-da4fe63c09e2)
+* [Gas Analyzer Repository](https://github.com/dappteacher/gas-analyzer)
 
 ---
 

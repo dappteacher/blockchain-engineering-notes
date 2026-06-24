@@ -440,10 +440,10 @@ The future of AMMs will likely continue moving toward greater flexibility, makin
 
 ### Related Articles
 
-* [Uniswap V2, V3, and V4: A Security Engineer's Guide to the Evolution of AMMs (Medium)](https://medium.com/@dappteacher/uniswap-v2-v3-and-v4-a-security-engineers-guide-to-the-evolution-of-amms-7611d6cd07d3?utm_source=chatgpt.com)
-* [ERC-4626 Vulnerabilities Every Smart Contract Auditor Should Know](https://medium.com/@dappteacher/erc-4626-vulnerabilities-every-smart-contract-auditor-should-know-51c7172d672f?utm_source=chatgpt.com)
-* [The Essential DeFi Design Patterns Every Smart Contract Engineer and Auditor Should Know](https://medium.com/@dappteacher/the-essential-defi-design-patterns-every-smart-contract-engineer-and-auditor-should-know-da4fe63c09e2?utm_source=chatgpt.com)
-* [Gas Analyzer Repository](https://github.com/dappteacher/gas-analyzer?utm_source=chatgpt.com)
+* [Uniswap V2, V3, and V4: A Security Engineer's Guide to the Evolution of AMMs (Medium)](https://medium.com/@dappteacher/uniswap-v2-v3-and-v4-a-security-engineers-guide-to-the-evolution-of-amms-7611d6cd07d3)
+* [ERC-4626 Vulnerabilities Every Smart Contract Auditor Should Know](https://medium.com/@dappteacher/erc-4626-vulnerabilities-every-smart-contract-auditor-should-know-51c7172d672f)
+* [The Essential DeFi Design Patterns Every Smart Contract Engineer and Auditor Should Know](https://medium.com/@dappteacher/the-essential-defi-design-patterns-every-smart-contract-engineer-and-auditor-should-know-da4fe63c09e2)
+* [Gas Analyzer Repository](https://github.com/dappteacher/gas-analyzer)
 
 ---
 

@@ -433,7 +433,7 @@ Allows inspection of deployed contract bytecode.
 
 ### Resource
 
-[Etherscan Contract Verification Portal](https://etherscan.io?utm_source=chatgpt.com)
+[Etherscan Contract Verification Portal](https://etherscan.io)
 
 ---
 
@@ -443,7 +443,7 @@ Excellent reference for opcode behavior and gas costs.
 
 ### Resource
 
-[evm.codes Opcode Reference](https://www.evm.codes?utm_source=chatgpt.com)
+[evm.codes Opcode Reference](https://www.evm.codes)
 
 ---
 
@@ -453,7 +453,7 @@ Useful for optimization and security analysis.
 
 ### Resource
 
-[Slither Static Analyzer](https://github.com/crytic/slither?utm_source=chatgpt.com)
+[Slither Static Analyzer](https://github.com/crytic/slither)
 
 ---
 
@@ -463,7 +463,7 @@ Helpful for transaction tracing and opcode-level debugging.
 
 ### Resource
 
-[Tenderly Platform](https://tenderly.co?utm_source=chatgpt.com)
+[Tenderly Platform](https://tenderly.co)
 
 ---
 
@@ -533,10 +533,10 @@ The best smart contract developers think beyond Solidity syntax and understand h
 
 ### Related Articles
 
-* [Understanding Opcode and Bytecode in Solidity: Their Role in Gas Optimization (Medium)](https://medium.com/@dappteacher/understanding-opcode-and-bytecode-in-solidity-their-role-in-gas-optimization-261a2fc1fd7e?utm_source=chatgpt.com)
-* [Solidity Gas Optimization: 10 Practical Techniques Every Smart Contract Developer Should Know](https://github.com/dappteacher/gas-analyzer?utm_source=chatgpt.com)
-* [ERC-4626 Vulnerabilities Every Smart Contract Auditor Should Know](https://medium.com/@dappteacher/erc-4626-vulnerabilities-every-smart-contract-auditor-should-know-51c7172d672f?utm_source=chatgpt.com)
-* [Uniswap V2, V3, and V4: A Security Engineer's Guide to the Evolution of AMMs](https://medium.com/@dappteacher/uniswap-v2-v3-and-v4-a-security-engineers-guide-to-the-evolution-of-amms-7611d6cd07d3?utm_source=chatgpt.com)
+* [Understanding Opcode and Bytecode in Solidity: Their Role in Gas Optimization (Medium)](https://medium.com/@dappteacher/understanding-opcode-and-bytecode-in-solidity-their-role-in-gas-optimization-261a2fc1fd7e)
+* [Solidity Gas Optimization: 10 Practical Techniques Every Smart Contract Developer Should Know](https://github.com/dappteacher/gas-analyzer)
+* [ERC-4626 Vulnerabilities Every Smart Contract Auditor Should Know](https://medium.com/@dappteacher/erc-4626-vulnerabilities-every-smart-contract-auditor-should-know-51c7172d672f)
+* [Uniswap V2, V3, and V4: A Security Engineer's Guide to the Evolution of AMMs](https://medium.com/@dappteacher/uniswap-v2-v3-and-v4-a-security-engineers-guide-to-the-evolution-of-amms-7611d6cd07d3)
 
 ---
 
